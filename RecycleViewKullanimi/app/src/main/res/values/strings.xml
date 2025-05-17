@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecycleViewKullanimi</string>
+    <string name="author_placeholder">Author PlaceHolder</string>
+    <string name="cover">Cover</string>
+    <string name="title_placeholder" />
+    <string name="title_placeHolder">title_placeholder</string>
+</resources>
